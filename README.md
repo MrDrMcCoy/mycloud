@@ -1,2 +1,2 @@
 # mycloud
-An Ansible script for setting up a private cloud
+Ansible scripts for setting up a private cloud
